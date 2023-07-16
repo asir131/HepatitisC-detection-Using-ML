@@ -1,0 +1,7 @@
+alb = albumin blood test
+alp = alkaine phosphate in blood
+alt = alanine transaminase in blood 
+ast = aspartate aminotransferase(livar enzymes)
+chol = cholesterol
+crea = Creatinine
+ggt =gamma-glutamyl transferase 
